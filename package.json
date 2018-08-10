@@ -5,7 +5,8 @@
   "main": "sketch.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
-    "first-travis-script": "echo cookbook"
+    "first-travis-script": "echo cookbook",
+    "second-travis-script": whoami"
   },
   "repository": {
     "type": "git",
