@@ -2,4 +2,5 @@ language: node_js
 node_js:
   - "stable"
 script:
+  - npm run test
   - npm run-script first-travis-script
