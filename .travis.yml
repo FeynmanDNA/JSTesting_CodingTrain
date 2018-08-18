@@ -5,3 +5,4 @@ script:
   - npm run test
   - npm run-script first-travis-script
   - npm run-script second-travis-script
+  - npm run real-test
